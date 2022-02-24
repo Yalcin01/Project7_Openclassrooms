@@ -1,6 +1,4 @@
-# Projet_OPCR_V3
-
-Projet N°7 _ formation data scientist _ Openclassrooms
+# Project7_Openclassrooms
 
 Contexte :
 
